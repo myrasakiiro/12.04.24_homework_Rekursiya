@@ -16,7 +16,7 @@ void Main()
     {
         if (m <= n)
         {
-            Console.WriteLine(m); // Печатаем текущее число
+            Console.Write(m +" "); // Печатаем текущее число
 
             PrintNumbers(m + 1, n); // Рекурсивно вызываем метод для следующего числа
         }
