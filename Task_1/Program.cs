@@ -1,2 +1,24 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Задача 1: 
+
+// Задайте значения M и N. Напишите программу, которая выведет все натуральные числа 
+// в промежутке от M до N. Использовать рекурсию, не использовать циклы.
+
+
+void Main()
+    {
+        int m = 1; // Задаем начало промежутка
+        int n = 10; // Задаем конец промежутка
+
+        PrintNumbers(m, n); // Вызываем метод для печати чисел в заданном промежутке
+    }
+
+    void PrintNumbers(int m, int n)
+    {
+        if (m <= n)
+        {
+            Console.WriteLine(m); // Печатаем текущее число
+
+            PrintNumbers(m + 1, n); // Рекурсивно вызываем метод для следующего числа
+        }
+    }
+Main();
