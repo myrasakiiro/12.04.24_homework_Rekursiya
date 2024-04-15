@@ -1,0 +1,15 @@
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\bin\Debug\net8.0\Task_2.exe
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\bin\Debug\net8.0\Task_2.deps.json
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\bin\Debug\net8.0\Task_2.runtimeconfig.json
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\bin\Debug\net8.0\Task_2.dll
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\bin\Debug\net8.0\Task_2.pdb
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfo.cs
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.sourcelink.json
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.dll
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\refint\Task_2.dll
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.pdb
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
+C:\Users\SystemX\Desktop\GeekBrains\12.04.24_homework_Rekursiya\Tasks\Task_2\obj\Debug\net8.0\ref\Task_2.dll
